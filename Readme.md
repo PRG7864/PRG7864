@@ -1,47 +1,69 @@
-Prathmesh Gour
+# Hey, I'm Prathmesh Gour ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30" alt="wave" />
 
-Software Engineer (B.Tech — Information Technology) · Full‑Stack Web Developer
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7e9454d1842be2e97ef76fe9715561dfe838fc84bcfb9f621c1a14ff1b99d0eb/68747470733a2f2f776562636f6465722e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f30342f776562736974652e676966" alt="Coding Banner" width="700" />
+</p>
 
-Contact: +91-6264628076 · prathmeshgour66422@gmail.com
+<p align="center">
+  <strong>Full-Stack Web Developer based in India</strong><br />
+  Building robust backend architectures and high-fidelity user interfaces across the JavaScript ecosystem.
+</p>
 
----
-
-About
-- Passionate about building reliable, performant web applications and solving algorithmic problems. Currently pursuing B.Tech in Information Technology and actively shipping full‑stack projects using React, Node.js, and modern SQL/NoSQL databases.
-
-Technical Skills
-- **Languages:** Java, JavaScript, SQL
-- **Frontend:** HTML5, CSS3, React, Bootstrap, Tailwind CSS v4
-- **Backend:** Node.js, Express.js, REST APIs, EJS, Mongoose
-- **Databases:** MySQL, MongoDB, TiDB
-- **Tools:** VS Code, IntelliJ IDEA, Git, GitHub, Vite, Vercel, Render
-
-Projects
-- **EventHub** — Full‑stack event management app using React, Node.js/Express, TiDB, Tailwind v4, Vite.
-  - Responsibilities: API design, authentication, dynamic filtering, responsive UI, CI/CD.
-  - Links: GitHub | Live demo (add repo and deployment URLs here)
-
-- **myStayPoint** — Server‑rendered short‑term property listing app using Node.js, Express, MongoDB, EJS.
-  - Responsibilities: MVC architecture, CRUD, schema design, validation middleware, reusable EJS layouts.
-  - Links: GitHub (add repo URL here)
-
-Achievements & Certifications
-- Solved 500+ problems across platforms (DSA & system design practice).
-- Multiple web development and Java certifications from Coding Ninjas.
-
-Education
-- B.Tech in Information Technology (IoT) — Madhav Institute of Technology and Science, Gwalior (Aug 2023 — Jun 2027)
-
-How to use this profile
-- Pin the two project repositories above on your GitHub profile.
-- Add README files to each project repo with setup and run instructions.
-- Add live demo links (Vercel/Render) and CI badges to each repo for credibility.
-
-Next steps I can do for you
-- Create/update individual project READMEs with setup commands and screenshots.
-- Generate GitHub Actions workflows for tests and deployments.
-- Build a GitHub Pages portfolio and link projects (optional).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PRG7864&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
-If you'd like, I can now (1) add full project READMEs in this workspace, (2) scaffold CI workflows, or (3) prepare a GitHub Pages repository — tell me which to start.
+## 🚀 About Me
+
+- ⚙️ **Backend Core:** Designing secure, structured RESTful APIs, routing mechanisms, and database schemas using Node.js, Express, and SQL/NoSQL systems.
+- 🎨 **Frontend Expertise:** Crafting highly responsive user interfaces, fluid animations, dynamic web apps, and modern interactive layouts with React and Tailwind CSS.
+- 🛠️ **Current Focus:** Optimizing end-to-end full-stack application performance, data persistence layers, and modular component composition.
+- ✉️ **Let's Connect:** Check out my projects below or drop a line on my social handles!
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind,nodejs,express,mongodb,postgres,html,css,git,github,vscode,docker" alt="Tech Stack" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🌟 [Innobeats Healthcare](https://github.com/PRG7864/innobeats-healthcare)
+A premium healthcare web platform built with a modern UI stack featuring interactive components and responsive operational dashboards.
+
+### 🏨 [FindMyStay](https://github.com/PRG7864/FindMyStay)
+A full-stack lodging and reservation application with integrated booking workflows, robust state management, and smooth routing.
+
+### 📅 [EventHub](https://github.com/PRG7864/EventHub)
+An interactive community event coordination platform equipped with real-time tracking, scheduling layouts, and custom portal profiles.
+
+### 💬 [chatApp](https://github.com/PRG7864/chatApp)
+A real-time communication application configured with active web socket connections for instant data relay and concurrent messaging feeds.
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PRG7864&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRG7864&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/PRG7864" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
