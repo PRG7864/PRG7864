@@ -34,18 +34,14 @@
 
 ## 📂 Featured Projects
 
-### 🌟 [Innobeats Healthcare](https://github.com/PRG7864/innobeats-healthcare)
-A premium healthcare web platform built with a modern UI stack featuring interactive components and responsive operational dashboards.
+### 🏷️ [THELOGOLESS](https://github.com/PRG7864/THELOGOLESS)
+A professional digital identity platform designed for clean branding, modular component architecture, and streamlined user experiences. THELOGOLESS provides a minimal, enterprise-grade foundation for building scalable applications with reusable components and distraction-free interfaces.
 
 ### 🏨 [FindMyStay](https://github.com/PRG7864/FindMyStay)
 A full-stack lodging and reservation application with integrated booking workflows, robust state management, and smooth routing.
 
 ### 📅 [EventHub](https://github.com/PRG7864/EventHub)
 An interactive community event coordination platform equipped with real-time tracking, scheduling layouts, and custom portal profiles.
-
-### 💬 [chatApp](https://github.com/PRG7864/chatApp)
-A real-time communication application configured with active web socket connections for instant data relay and concurrent messaging feeds.
-
 ---
 
 ## 📊 GitHub Performance
