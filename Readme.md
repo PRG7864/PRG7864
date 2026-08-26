@@ -34,14 +34,9 @@
 
 ## 📂 Featured Projects
 
-### 🏷️ [THELOGOLESS](https://github.com/PRG7864/THELOGOLESS)
+### 🏷️ [TheLogolessClothings](https://github.com/PRG7864/TheLogolessClothings)
 A professional digital identity platform designed for clean branding, modular component architecture, and streamlined user experiences. THELOGOLESS provides a minimal, enterprise-grade foundation for building scalable applications with reusable components and distraction-free interfaces.
 
-### 🏨 [FindMyStay](https://github.com/PRG7864/FindMyStay)
-A full-stack lodging and reservation application with integrated booking workflows, robust state management, and smooth routing.
-
-### 📅 [EventHub](https://github.com/PRG7864/EventHub)
-An interactive community event coordination platform equipped with real-time tracking, scheduling layouts, and custom portal profiles.
 ---
 
 ## 📊 GitHub Performance
